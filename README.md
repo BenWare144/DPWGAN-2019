@@ -5,7 +5,7 @@ This code incorporates [Weka](https://www.cs.waikato.ac.nz/ml/weka/).
 
 ### Data Preprocessing Preprocess_Data.ipynb
 1. Set up directory structure with<br>
-`mkdir -p DATA/{PREPROCESSED/TEST,PREPROCESSED/TRAIN,ORIGINAL/.tmp,GENERATED}`
+`mkdir -p DATA/{PREPROCESSED/TEST,PREPROCESSED/TRAIN,ORIGINAL/tmp,GENERATED}`
 
 1. Then download the data sets from here:<br>
 [KCCFD](https://www.kaggle.com/mlg-ulb/creditcardfraud#creditcard.csv)<br>
